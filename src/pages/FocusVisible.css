@@ -1,0 +1,9 @@
+.btn {
+  font-size: var(--font-size);
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+}
+
+/* .btn:focus {
+  outline: none;
+} */

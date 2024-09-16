@@ -1,0 +1,27 @@
+.cards,
+.grid {
+  display: grid;
+  gap: 1rem;
+}
+
+@media (min-width: 992px) {
+  .grid {
+    grid-template-columns: 1fr 300px;
+  }
+}
+
+.cards,
+.main {
+  container-type: inline-size;
+}
+
+@container (min-width: 600px) {
+  .card {
+    grid-template-columns: 300px 1fr;
+  }
+
+  .card__title {
+    grid-column: 1 / -1;
+    font-size: calc(1.325rem + 2cqw);
+  }
+}

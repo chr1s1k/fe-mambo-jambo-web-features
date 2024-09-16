@@ -1,0 +1,20 @@
+.card {
+  display: grid;
+  gap: 1rem;
+  padding: 1rem;
+  border: 1px solid var(--gray-color);
+  border-radius: 0.375rem;
+}
+
+.card__title {
+  margin-bottom: 0;
+}
+
+.card__image {
+  max-width: 100%;
+  height: auto;
+}
+
+.card__description {
+  margin: 0;
+}
