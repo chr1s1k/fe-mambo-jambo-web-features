@@ -4,7 +4,7 @@ import "./Has.css"
 export default function Has() {
   return (
     <>
-      <h1>:has</h1>
+      <h1>:has()</h1>
       <section className="h-full">
         <h2>Parent selector</h2>
         <div className="figure-wrapper">

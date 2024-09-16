@@ -13,7 +13,7 @@ export default function Home() {
         </li>
         <li className="list__item">
           <Link to="/has" className="list__link">
-            :has
+            :has()
           </Link>
         </li>
         <li className="list__item">
