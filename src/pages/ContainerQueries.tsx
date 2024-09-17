@@ -6,7 +6,7 @@ export default function ContainerQueries() {
     <>
       <h1>Container queries</h1>
       <div className="grid">
-        <div className="main">
+        {/* <div className="main">
           <p>
             Macaroon cupcake gummi bears cake cupcake biscuit. Sesame snaps cheesecake dessert
             croissant macaroon. Croissant sugar plum bonbon carrot cake icing ice cream. Brownie
@@ -17,7 +17,7 @@ export default function ContainerQueries() {
             Tart fruitcake gingerbread shortbread lemon drops chocolate cake cookie marshmallow
             liquorice. Marzipan cookie sweet roll lollipop candy gummies chupa chups dessert donut.
           </Card>
-        </div>
+        </div> */}
         <div className="cards">
           <Card title="Card 1" imageSrc="https://satyr.dev/360x240/1">
             Lollipop biscuit candy chupa chups shortbread. Candy canes cotton candy chocolate wafer

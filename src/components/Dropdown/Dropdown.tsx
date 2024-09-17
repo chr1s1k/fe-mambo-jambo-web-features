@@ -53,8 +53,6 @@ export default function Dropdown({
         className={clsx("dropdown__list", {
           "dropdown__list--open": isOpen,
         })}
-        // @ts-expect-error The inert prop is not yet in the React typings (https://github.com/facebook/react/issues/17157)
-        inert={!isOpen ? "" : undefined}
       >
         {options.map((option, index) => (
           <li
