@@ -1,8 +1,4 @@
-.cards {
-  display: grid;
-  gap: 1rem;
-}
-
+.cards,
 .layout {
   display: grid;
   gap: 1rem;
