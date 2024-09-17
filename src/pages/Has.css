@@ -19,7 +19,7 @@ figure img {
   border-radius: var(--rounded);
 }
 
-figure:has(figcaption) {
+/*
   display: flex;
   flex-direction: column;
   gap: 0.5rem;
@@ -27,7 +27,7 @@ figure:has(figcaption) {
   background-color: #fff;
   box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.1);
   border-radius: var(--rounded);
-}
+*/
 
 /* ------------------------------------------------------------------ */
 
