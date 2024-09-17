@@ -3,6 +3,17 @@
   gap: 1rem;
 }
 
+.layout {
+  display: grid;
+  gap: 1rem;
+}
+
+@media (min-width: 992px) {
+  .layout {
+    grid-template-columns: 1fr 300px;
+  }
+}
+
 
 
 
