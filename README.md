@@ -8,6 +8,34 @@ Examples of HTML/CSS features presented at FE Mambo Jambo.
 2. Install dependencies `bun install`
 3. Run the dev server `bun dev`
 
+
+## Sources
+
+### Container Queries
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_containment/Container_queries
+
+### :has()
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/:has
+
+### text-wrap: balance
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/text-wrap
+
+### :focus-visible
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/:focus-visible
+
+### inert
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/inert
+
+### Baseline 2023 + 2024 features
+
+- https://web.dev/baseline/2023
+- https://web.dev/baseline/2024
+
 ## React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
